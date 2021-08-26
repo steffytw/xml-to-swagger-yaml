@@ -8,7 +8,7 @@ XML_NODE_CONTENT = '_xml_node_content'
 XML = 'xml:'
 ATTRIBUTE = 'attribute: true'
 
-f = open("CCDAResponse1.yaml", "w")
+f = open("converted.yaml", "w")
 
 
 def yamlout(node, depth=0):
